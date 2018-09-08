@@ -1,2 +1,3 @@
-# upload
-phim ,video
+<? php
+require_once 'Dailymotion.php';
+?>
